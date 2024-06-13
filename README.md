@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nattakan Kaewpairam</h1>
-<h3 align="center">A passionate fullstack/mobile developer from Thailand.</h3>
+<h3 align="center">A new graduated student looking for fullstack/mobile developer job in Thailand.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
